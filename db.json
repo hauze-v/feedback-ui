@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "text": "Literally the best service I have ever received!",
+      "rating": 10
+    },
+    {
+      "id": "2",
+      "text": "I am so happy with my purchase. I will definitely be buying more work from you in the future!",
+      "rating": 9
+    },
+    {
+      "text": "It was meh...",
+      "rating": 5,
+      "id": "3"
+    }
+  ]
+}
